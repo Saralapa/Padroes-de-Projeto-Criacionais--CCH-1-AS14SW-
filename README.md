@@ -24,7 +24,7 @@ A implementação do **Builder** consiste em:
 2. **Uma classe interna (`Builder`)** responsável por definir os atributos e criar o objeto final.
 3. **Métodos encadeáveis**, permitindo configurar os atributos do objeto de maneira fluida.
 
-### **Exemplo de Código disponível em ComputerBuilder.java**
+### **Exemplo de Código disponível em [ComputerBuilder.java](ComputerBuilder.java)**
 
 ### **Consequências (Vantagens e Desvantagens)**
 
